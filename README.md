@@ -1,5 +1,6 @@
 # TrimUI-Apps
 Apps for TrimUI Smart Pro
+Any Icon design are welcome (i just randomly did some using Canva) or Bug reports are welcome
 
 Tested on Firmware 1.0.4
 
