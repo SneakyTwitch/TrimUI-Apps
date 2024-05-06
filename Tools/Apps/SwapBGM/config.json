@@ -1,0 +1,7 @@
+{
+"label":"Swap BGM",
+"icon":"SwapBGM.png",
+"iconsel":"SwapBGM.png",
+"launch":"SwapBGM.sh",
+"description":"Swap BGM"
+}

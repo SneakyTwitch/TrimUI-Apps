@@ -1,0 +1,7 @@
+{
+"label":"Start/Stop BGM",
+"icon":"StartStopBGM.png",
+"iconsel":"StartStopBGM.png",
+"launch":"StartStopBGM.sh",
+"description":"Start or Stop BGM"
+}
