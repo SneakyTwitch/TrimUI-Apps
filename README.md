@@ -7,8 +7,8 @@ Heavily took inspiration from the legends -> [DJware's](https://github.com/djwar
 [Steve Laminger aka TechToyTinker's](https://techtoytinker.com/handheld-corner) TomatoOS files
 
 Will be working on:
-- [x] Backup configuration (RA/PPSSPP & customisation)
-- [x] Restore configuration (RA/PPSSPP & customisation)
+- [x] Backup configuration (RA/PPSSPP/NDS )
+- [x] Restore configuration (RA/PPSSPP/NDS )
 - [ ] Breathing LED script
 - [ ] Auto play next bgm in folder if any
 
