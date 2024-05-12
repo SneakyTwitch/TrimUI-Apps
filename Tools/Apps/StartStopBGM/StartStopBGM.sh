@@ -8,7 +8,7 @@ THEMEPATH=/mnt/UDISK/system.json
 
 #Grab current running theme
 #Theme value is -> mnt/SDCARD/Themes/xxx/
-theme_value=$(grep '"theme"' $THEMEPATH | cut -d ':' -f 2 | tr -d ' ",}' | sed 's:/*$::')/
+theme_value=$(grep '"theme"' $THEMEPATH | cut -d ':' -f 2 | tr -d '",}' | sed 's:/*$::')/
 theme_value=$(echo "$theme_value" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
 echo "Current Theme: $theme_value" >> $LOGFILE
 
