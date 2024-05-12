@@ -3,8 +3,8 @@ Apps for TrimUI Smart Pro
 
 Tested on Firmware 1.0.4
 
-Heavily took inspiration from the legends -> [DJware's](https://github.com/djware/TrimUITools?tab=readme-ov-file) TrimUI Tools & 
-[Steve Laminger aka TechToyTinker's](https://techtoytinker.com/handheld-corner) TomatoOS files
+Heavily took inspiration from the legend -> [DJware's](https://github.com/djware/TrimUITools?tab=readme-ov-file) TrimUI Tools & 
+the usage of [Steve Laminger aka TechToyTinker's](https://techtoytinker.com/handheld-corner) TomatoOS files, additional tools such Dingux file commander
 
 Will be working on:
 - [x] Backup configuration (RA/PPSSPP/NDS )
