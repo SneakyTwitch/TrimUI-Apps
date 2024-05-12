@@ -7,10 +7,11 @@ Heavily took inspiration from the legends -> [DJware's](https://github.com/djwar
 [Steve Laminger aka TechToyTinker's](https://techtoytinker.com/handheld-corner) TomatoOS files
 
 Will be working on:
-1. Backup configuration (RA/PPSSPP & customisation)
-2. Restore configuration (RA/PPSSPP & customisation)
-3. Breathing LED script
-4. Auto play next bgm in folder if any
+- [x] Backup configuration (RA/PPSSPP & customisation)
+- [x] Restore configuration (RA/PPSSPP & customisation)
+- [ ] Breathing LED script
+- [ ] Auto play next bgm in folder if any
+
 
 
 Ps: Any Icon design are welcome (i just randomly did some using Canva),  Bug reports are welcome too
