@@ -1,0 +1,7 @@
+{
+"label":"Backup Config Files",
+"icon":"BackupConfig.png",
+"iconsel":"BackupConfig.png",
+"launch":"launch.sh",
+"description":"Backup RA, PSP & NDS"
+}

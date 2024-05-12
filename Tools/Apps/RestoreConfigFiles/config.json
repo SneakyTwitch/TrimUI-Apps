@@ -1,0 +1,7 @@
+{
+"label":"Restore Config Files",
+"icon":"RestoreConfig.png",
+"iconsel":"RestoreConfig.png",
+"launch":"launch.sh",
+"description":"Restore Retroarch,NDS & PPSSPP"
+}
