@@ -2,6 +2,8 @@
 Apps for TrimUI Smart Pro
 
 Tested on Firmware 1.0.4
+## Please note that this project is not maintained anymore. Please use CrossMix OS 
+
 
 Heavily took inspiration from the legend -> [DJware's](https://github.com/djware/TrimUITools?tab=readme-ov-file) TrimUI Tools & 
 the usage of [Steve Laminger aka TechToyTinker's](https://techtoytinker.com/handheld-corner) TomatoOS files, additional tools such Dingux file commander
@@ -9,8 +11,7 @@ the usage of [Steve Laminger aka TechToyTinker's](https://techtoytinker.com/hand
 Will be working on:
 - [x] Backup configuration (RA/PPSSPP/NDS )
 - [x] Restore configuration (RA/PPSSPP/NDS )
-- [ ] Breathing LED script
-- [ ] Auto play next bgm in folder if any
+
 
 
 
